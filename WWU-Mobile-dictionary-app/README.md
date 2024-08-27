@@ -1,6 +1,3 @@
-# Project 1
-
-Your name(s): Aidan Ainsworth, Rylan Wasson
 init script: /usr/central/bin/as_init
 
 ## Code base
